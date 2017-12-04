@@ -81,4 +81,4 @@ In [roguelikes](https://en.wikipedia.org/wiki/Roguelike), items made by the alve
 
 The word "alvish" should be capitalized like a proper noun. However, when referring to the `alvish` command, use it in lower case with fixed-width font.
 
-Whoever practices the alvish way by either contributing to it or simply using it is called an **Elf**. (You might have guessed this from the name of the GitHub organization.) The official adjective for alvish (as in "Pythonic" for Python, "Rubyesque" for Ruby) is **alven**.
+Whoever practices the alvish way by either contributing to it or simply using it is called an **alv**. (You might have guessed this from the name of the GitHub organization.) The official adjective for alvish (as in "Pythonic" for Python, "Rubyesque" for Ruby) is **alven**.
